@@ -1,4 +1,4 @@
-# CSistema de Gestión de Actividades y Recursos en un Campo
+# Sistema de Gestión de Actividades y Recursos en un Campo
 
 Este es el proyecto frontend para el sistema de **Gestión de Actividades y Recursos en un Campo**. Está construido con [React](https://reactjs.org/) para ofrecer una experiencia de usuario rápida y fluida.
 
@@ -14,7 +14,7 @@ Este es el proyecto frontend para el sistema de **Gestión de Actividades y Recu
 
 ##  Autores
 
--[Didier Oliva] 
--[Emanuel Diaz]
--[Joel Cabral] 
--[Zacarias Flores]
+- [Didier Oliva] 
+- [Emanuel Diaz]
+- [Joel Cabral] 
+- [Zacarias Flores]
